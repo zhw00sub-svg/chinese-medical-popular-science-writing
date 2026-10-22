@@ -16,6 +16,16 @@ Use this skill after the medical facts, terminology, population scope, and safet
 - If better wording would change medical meaning, keep the original meaning and mark the wording issue for author or expert review.
 - Exclude groups outside the provided scope. If no scope is given, do not silently generalize to children, adolescents, pregnancy, postpartum, eating disorders, severe frailty, complex multimorbidity, or active specialist treatment.
 
+## Author Preference: Complete, Natural Prose
+
+The author confirmed on 2026-10-22 a preference for the supplied Gemini revision of the GLP-1 review: fuller explanations, natural professional collocations, and connections that follow the subject matter. Transfer these qualities to public-facing prose, without importing the academic register or treating the sample's medical additions as verified facts. This preference concerns observable prose, not a blanket endorsement of a model.
+
+Clarity takes priority over compression. Retain the subjects, premises, and explanatory relationships that readers need. A complete, well-shaped longer sentence is preferable to several short statements that leave readers to reconstruct the meaning. Delete repetition after the explanation works. Do not equate human prose with casual language, invented anecdotes, decorative synonyms, or artificial variation.
+
+Build each paragraph around its actual purpose. Do not make every paragraph follow the same explanation–advice–warning pattern or end with a clinical takeaway. Let transitions identify a real relationship; remove abstract announcements about moving to another “level,” “dimension,” or “framework” when they add no explanation. Preserve necessary uncertainty where it affects understanding.
+
+This skill remains for Chinese public-facing medical writing. English academic writing and Chinese scholarly manuscripts use their own writing skill; do not apply a public-education register to them.
+
 ## Workflow
 
 1. **Lock the facts**
@@ -32,7 +42,7 @@ Use this skill after the medical facts, terminology, population scope, and safet
    - safety language that sounds preachy, dramatic, or hidden.
 
 3. **Rebuild for public understanding**
-   Prefer this order when it fits:
+   Use the following relationships only where the material calls for them; they are not mandatory paragraph slots:
    ```text
    concrete reader situation
    -> what is happening medically or physiologically
@@ -45,7 +55,10 @@ Use this skill after the medical facts, terminology, population scope, and safet
 4. **Read for Chinese prose**
    The text should have forward motion, varied sentence length, concrete verbs and nouns, and a calm medical narrator. It should not sound like a slogan, chatbot answer, academic abstract, hospital notice, marketing copy, or translated English paragraph.
 
-5. **Re-check medical meaning**
+5. **Check readability separately from correctness**
+   Read the passage continuously without its outline. Can a reader follow who or what is being discussed, what happens, and why the next sentence follows? Rewrite awkward collocations, missing premises, and repetitive endings at paragraph level. For example, “维持减重后的体重” may communicate more directly than “减重效果的保留,” depending on the intended meaning; retain standard terminology when precision requires it. Do not invent an explanation that the approved evidence does not provide. A factual check alone does not establish that the language is finished.
+
+6. **Re-check medical meaning**
    Confirm that causality, strength of recommendation, population, time scale, thresholds, uncertainty, and safety instructions still match the approved content.
 
 ## What To Rework
@@ -66,7 +79,7 @@ These words may appear when quoted as patient language or when carefully framed.
 
 - Start from a real Chinese reader's question or situation, but do not imitate online speech.
 - Use standard Chinese medical terms; explain them by function and relevance, not by displaying English.
-- Prefer concrete verbs and short main clauses over long nominalized sentences.
+- Prefer concrete verbs and familiar medical collocations over unnecessary nominalization. Keep sentences as complete as the explanation requires; do not enforce short main clauses or split connected reasoning into fragments.
 - Let literary quality come from rhythm, scene, and conceptual clarity, not ornament.
 - Use metaphor sparingly. Define what relationship the metaphor explains, and prevent it from creating false causality.
 - Keep "what can be done" safe and bounded: observe, record, adjust low-risk habits, prepare information for consultation, or seek care when indicated.
