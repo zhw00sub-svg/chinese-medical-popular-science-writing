@@ -7,6 +7,22 @@ description: Rewrite and audit evidence-approved Chinese public-facing medical p
 
 Use this skill after factual claims, terminology, and safety boundaries are already locked. The task is language-level reconstruction, not evidence discovery and not new medical interpretation.
 
+## 已确认的科普评论写法 — 2026-11-07
+
+适用于有研究支撑的社会观察型科普长文；不把这种评论语气强加给诊疗说明、知情同意或医学指南。用户认可的是明确判断、持续推进的论证和可感知的生活图景，不是夸张的神经科学术语。
+
+- 动笔前用一句话确定全文要回答的问题和证据允许的核心判断。让各节沿着同一问题推进，避免机械拼接“背景—研究—限定—建议”。
+- 从具体体验进入，逐层解释行为如何发生、为什么值得担忧、现实代价在哪里、个人和平台能改变什么。这个顺序可调整，不是每篇必须填满的模板。
+- 科学严谨是判断强度与证据强度相称，不是取消判断。区分实证结果、机制解释、趋势推断和价值判断；研究不能证明永久损伤，不妨碍讨论已经可见的时间挤占和生活代价。
+- 把必要限定紧贴对应结论，同一证据边界说明清楚一次即可。不要每推进一段就用“尚不能证明”“仍需研究”“并非保证有效”撤回论点；不可为行文流畅省去会改变读者理解的风险、人群或因果边界。
+- 研究服务于论证：交代对读者有意义的研究对象、设计和发现，然后接回正在讨论的问题。不要让正文成为研究摘要的串联。
+- 用读书、等待、练习技能、完成研究等具体经验解释注意力和延迟回报。允许有解释力的比喻、简洁的判断句和有节制的加粗；力量来自推理和经验，不来自术语或恐惧。
+- 不把“多巴胺黑洞”“前额叶休眠失能”“脑功能被永久损伤”当作未经证实的机制；不把短剧直接等同老虎机，不把影像活动差异写成长期损伤，不把相关性写成因果。
+- 结尾回到全文矛盾，允许一个由论证自然得出的简洁收束，不强制附加免责、就医建议或整齐的三点总结。具体行动与文章定位相称。
+- 完稿分别做两次检查：先检查每节是否推进核心问题、有没有重复自我限定；再检查数字、来源、因果、人群和医学边界。文风认可不等于事实已核验，示范稿中的新闻、法规和研究细节仍须独立核对。
+
+示例立论（只说明写法，不作为其他文章的固定内容）：内容生产成本下降与连续推荐结合，使娱乐更容易持续；有限的时间和注意力因而更容易被挤占。依次解释观看动力、持续投入的机会、消费风险和停止观看的条件，而非借“脑损伤”增强冲击力。
+
 ## Confirmed Prose Preference — 2026-10-22
 
 The author prefers the supplied Gemini revision's fuller explanation, natural medical collocations, and substantive progression. Apply these qualities to the intended audience; do not copy its claims or transfer academic language wholesale into public prose.
